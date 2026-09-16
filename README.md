@@ -1,4 +1,4 @@
-# doc-project
+# Doc-Project
 ## About
 This is my documentation project on GitHub
 
