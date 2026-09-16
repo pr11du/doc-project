@@ -20,3 +20,7 @@ Open-source projects — Publish projects so other people can view, use, contrib
 Automation — GitHub Actions can automatically run tests, build software, deploy websites, etc.
 
 Documentation — Store things like README files, setup instructions, and project documentation alongside the code.
+
+<p align="center">
+  <img src="screenshots/demo.png" width="800">
+</p>
