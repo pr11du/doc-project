@@ -21,6 +21,3 @@ Automation — GitHub Actions can automatically run tests, build software, deplo
 
 Documentation — Store things like README files, setup instructions, and project documentation alongside the code.
 
-<p align="center">
-  <img src="screenshots/demo.png" width="800">
-</p>
